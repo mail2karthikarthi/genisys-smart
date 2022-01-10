@@ -1,8 +1,8 @@
-baseurl: 'https://mail2karthikarthi.github.io/genisys-smart/'
+baseurl: 'genisys-smart/'
 exclude: ['README.md']
 permalink: pretty
 title: 'Myllenyl'
-url: https://mail2karthikarthi.github.io/genisys-smart/"
+
 
 google_analytics_id: "G-52MCRSMDG1"
 homepage:
