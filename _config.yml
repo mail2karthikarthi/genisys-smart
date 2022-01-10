@@ -1,8 +1,8 @@
-baseurl: ''
+baseurl: 'https://mail2karthikarthi.github.io/genisys-smart/'
 exclude: ['README.md']
 permalink: pretty
 title: 'Myllenyl'
-url: https://myllenyl.github.io/myllenyl"
+url: https://mail2karthikarthi.github.io/genisys-smart/"
 
 google_analytics_id: "G-52MCRSMDG1"
 homepage:
@@ -17,7 +17,7 @@ footer:
 seo:
   meta_og_title: "Myllenyl"
   meta_og_type: "website"
-  meta_og_url: "https://myllenyl.com"
+  meta_og_url: "https://mail2karthikarthi.github.io/genisys-smart/"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "Myllenyl is a new age technology company working in saas, custom development and apps"
   
