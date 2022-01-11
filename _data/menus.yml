@@ -1,16 +1,19 @@
 main:
+  - name: "About Us"
+    url: "/aboutus/"
+    weight: 2
   - name: "Products"
     url: "/products/"
-    weight: 2
-  - name: "Pricing"
-    url: "/pricing/"
     weight: 3
-  - name: "Resources"
-    url: "/resources/"
+  - name: "Services"
+    url: "/services/"
     weight: 4
+  - name: "Industries"
+    url: "/industries/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer1:
  
@@ -18,8 +21,8 @@ footer1:
     url: "/our-Story/"
     weight: 1
     icon: "fa fa-history"
-  - name: "Request a Demo"
-    url: "/request-demo/"
+  - name: "Request a Service"
+    url: "/request-service/"
     weight: 2
     icon: "fa fa-bullseye"
   - name: "Contact Us"
@@ -42,16 +45,16 @@ footer2:
     icon: "fa fa-user-secret"
 
 footer3:
-  - name: "Products"
-    url: "/products/"
+  - name: "Clients"
+    url: "/clients/"
     weight: 1
     icon: "fa fa-product-hunt"
   - name: "FAQ"
     url: "/faq/"
     weight: 2
     icon: "fa fa-question-circle"
-  - name: "Resources"
-    url: "/resources/"
+  - name: "Testimonials"
+    url: "/testimonials/"
     weight: 3
     icon: "fa fa-book"
   
