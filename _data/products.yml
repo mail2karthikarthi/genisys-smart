@@ -1,34 +1,34 @@
   products:
   
-  - text: "ConnectEd is a tool which connects all stakeholders of a school. It is a unified communication tool for parents, teachers, and other staffs"
+  - text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
     image: "../images/product/1.svg"
-    title: "What is ConnectEd?"
+    title: "Lorem Ipsum"
     weight: 1
-  - text: "Being a cloud software, you can rely on scalability, deployment and security at an affordable cost"
+  - text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
     image: "../images/product/2.svg"
-    title: "Cloud ConnectEd"
+    title: "Lorem Ipsum"
     weight: 2
-  - text: "Admin ConnectEd uses modern web capabilities to deliver an app-like user experience. They evolve from pages in browser tabs to immersive, top-level apps, maintaining the web's low friction at every moment."
+  - text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
     image: "../images/product/3.svg"
-    title: "Administration ConnectEd"
+    title: "Lorem Ipsum"
     weight: 3
-  - text: "Client ConnectEd is an app that bundles together lot of features in a way that is accessible to android and IOS users."
+  - text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
     image: "../images/product/4.svg"
-    title: "Client ConnectEd"
+    title: "Lorem Ipsum"
     weight: 4
-  - text: "ConnectEd Serverless allocates machine resources on demand, taking care of the servers on behalf of their customers."
+  - text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
     image: "../images/product/5.svg"
-    title: "ConnectEd Serverless"
+    title: "Lorem Ipsum"
     weight: 5
-  - text: "ConnectEd works through the cloud delivery model. ConnectEd is accessible to any device with a network. No setup and maintenance just subscribe and gain access to the software, which is a ready-made solution."
+  - text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
     image: "../images/product/6.svg"
-    title: "ConnectEd as a Service"
+    title: "Lorem Ipsum"
     weight: 6
-  - text: "Realtime syncing makes it easy for your users to access their data from any device: web or mobile, and it helps your users in sync"
+  - text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
     image: "../images/product/7.svg"
-    title: "Realtime ConnectED"
+    title: "Lorem Ipsum"
     weight: 7
-  - text: "A list of features that makes every stakeholder more productive and get ConnectEd"
-    image: "../images/product/8.svg"
-    title: "ConnectEd features"  
+  - text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+    image: "../images/product/7.svg"
+    title: "Lorem Ipsum"  
     weight: 8
