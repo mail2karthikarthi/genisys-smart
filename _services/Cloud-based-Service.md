@@ -1,8 +1,8 @@
 ---
-title: "Cloud based Service"
+title: "Quick Service"
 featured: true
 weight: 6
 layout: services
 ---
 
-Powered with next-generation hybrid multicloud platform to meet scalablity and agility.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
