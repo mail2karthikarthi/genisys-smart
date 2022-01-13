@@ -1,8 +1,28 @@
 ---
 title: Our Story
-layout: policy
+layout: page
 bodyClass: page-contact
 ---
 
-What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+Our mission is to provide innovative and smart solutions for business.
+
+Genisys make innovative, target oriented products and service that empower our users to simply get more things done.
+
+Culture
+
+We are measured by outcomes and strive hard for Gross happiness. We cherish technology, creativity and simplicity in our solutions.
+
+Investors
+
+We are a privately funded organization and became a zero debt within few days due to our customers and solutions.
+
+Our belief
+
+People, Products and dreams
+
+Values
+
+Customer first
+Doing it right
+Getting Connected
+Open to new ideas and feedback
