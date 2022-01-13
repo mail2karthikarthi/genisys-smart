@@ -5,4 +5,4 @@ weight: 5
 layout: services
 ---
 
-Significant savings compared to traditional model where hardware and software license are high.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
