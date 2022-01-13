@@ -1,17 +1,17 @@
 [
   {
-    "title": "Consultation & Demo",
-    "description": "Call us for Remote or in premises demo on your time and convenience",
+    "title": "Consultation",
+    "description": "Call us for Remote or in premises cosultation on your time and convenience",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Customization",
-    "description": "Localization according to customer's design and branding",
+    "title": "Lorem Ipsum",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Data Compliance",
-    "description": "We stay up to date on the latest changes to the data security.",
+    "title": "Lorem Ipsum",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
