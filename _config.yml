@@ -1,4 +1,4 @@
-baseurl: 'genisys-smart/'
+baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'Genisys'
