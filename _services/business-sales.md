@@ -5,4 +5,4 @@ weight: 3
 layout: services
 ---
 
-Bring everyone together. Easily organize all communication in public or private.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
