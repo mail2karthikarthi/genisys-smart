@@ -1,7 +1,7 @@
 ---
-title: ConnectEd
+title: Genisys
 layout: home
-description: ConnectEd is a cloud based software as a service for schools.
+description: Genisys is a new age technology company specializing in industrial and marine automation.
 intro_image: "images/illustrations/genisys.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
