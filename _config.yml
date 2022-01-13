@@ -1,7 +1,7 @@
 baseurl: 'genisys-smart/'
 exclude: ['README.md']
 permalink: pretty
-title: 'Myllenyl'
+title: 'Genisys'
 
 
 google_analytics_id: "G-52MCRSMDG1"
@@ -12,14 +12,14 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "72px"
 footer:
-  copyright_text: '© 2021 <a class="zerostatic" href="https://www.myllenyl.com">www.myllenyl.com</a>'
+  copyright_text: '© 2022 <a class="zerostatic" href="https://www.genisys-smart.com">www.genisys-smart.com</a>'
 
 seo:
-  meta_og_title: "Myllenyl"
+  meta_og_title: "Genisys"
   meta_og_type: "website"
   meta_og_url: "https://mail2karthikarthi.github.io/genisys-smart/"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Myllenyl is a new age technology company working in saas, custom development and apps"
+  meta_og_description: "Genisys is a new age automation company working in marine and industrial automation"
   
 
 collections:
