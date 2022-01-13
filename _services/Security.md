@@ -5,4 +5,4 @@ weight: 4
 layout: services
 ---
 
-Stronger security for users and data with phone authentication and verification.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
